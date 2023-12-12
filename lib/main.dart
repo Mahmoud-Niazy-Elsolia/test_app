@@ -14,5 +14,6 @@ void main() {
     if(number%i==0) {
       stdout.write('$i ');
     }
+    ///Mahmoud
   }
 }
